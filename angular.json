@@ -25,9 +25,23 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/css/animate.min.css",
+              "src/css/font-awesome.min.css",
+              "src/css/bootstrap.min.css",
+              "src/css/kinga-style.css",
+              "src/css/templatemo-polygon.css",
+              "src/css/templatemo-style.css",
+              "src/css/theme.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/js/jquery.js",
+              "src/js/jquery.singlePageNav.min.js",
+              "src/js/custom.js",
+              "src/js/global.js",
+              "src/js/typed.js",
+              "src/js/wow.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -84,9 +98,24 @@
               "src/assets"
             ],
             "styles": [
+              "src/styles.css",
+              "src/css/animate.min.css",
+              "src/css/font-awesome.min.css",
+              "src/css/kinga-style.css",
+              "src/css/templatemo-polygon.css",
+              "src/css/templatemo-style.css",
+              "src/css/theme.css",
+              "src/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/js/global.js",
+              "src/js/jquery.singlePageNav.min.js",
+              "src/js/jquery.js",
+              "src/js/custom.js",
+              "src/js/typed.js",
+              "src/js/wow.min.js"
+            ]
           }
         }
       }
